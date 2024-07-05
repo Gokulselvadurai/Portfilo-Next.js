@@ -22,7 +22,7 @@ const About = () => {
           Who is Gokul?
         </h2>
         <p className="a-desc">
-        Gokul is a final year postgrad student who got intrigued by the tech and developments. His curiosity pulls him towards learning and solving cutting-edge enterprise solutions. His desire to explore the evolving technology and understand its workings is unstoppable.        </p>
+        Gokul is a final year postgrad student who got intrigued by the tech and developments. His curiosity pulls him towards learning and eager to solve cutting-edge enterprise solutions. His desire to explore the evolving technology and understand its workings is unstoppable.        </p>
         <br></br>
         <p className="a-desc">
         Basically he can code, design and manage to make things work the way they need to be! 
